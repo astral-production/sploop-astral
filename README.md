@@ -28,7 +28,11 @@ A brief **Auto-Heal** with adaptive from your ping + server ticks.
 
 **9 CPS**: Astral uses fully 9 cps for healing/attack people/building. (It doesn't use 9 cps when you hold key for spam buildings.)
 
+
+
 Remember, Astral was made for Nightmare.
+
+
 
 Credits: 
 ilyax (me): Design of Astral, Astral logo, Attack system, Defense system, GUI/CLI (yes i copy danser-go), And more features such as translatino system etc.
