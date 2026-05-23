@@ -9,7 +9,7 @@ Also it can competite with other best mods of the sploop.io.
 
 ---
 
-What the features/optimizasion of Astral:
+# What the features/optimizasion of Astral:
 
 A brief **Auto-Heal** with adaptive from your ping + server ticks.
 
@@ -38,7 +38,8 @@ Remember, Astral was made for Nightmare.
 
 ---
 
-Credits: 
+# Credits: 
+
 ilyax (me): Design of Astral, Astral logo, Attack system, Defense system, GUI/CLI (yes i copy danser-go), And more features such as translatino system etc.
 
 Cubic Flex [CF]: Helping me to understand sploop.io mechanizm. <3
