@@ -1,9 +1,13 @@
 # Sploop.io Astral
 A tampermonkey cheat made in sploop.io. 
 
+---
+
 I've worked on the script since the new year of 2025. and honestly? even the biggest sploop update astral still works aswell.
 Worlds best script ever. (possibly if you know how to pvp in sploop.io and not trust autoplacers and other automations.)
 Also it can competite with other best mods of the sploop.io.
+
+---
 
 What the features/optimizasion of Astral:
 
@@ -28,21 +32,23 @@ A brief **Auto-Heal** with adaptive from your ping + server ticks.
 
 **9 CPS**: Astral uses fully 9 cps for healing/attack people/building. (It doesn't use 9 cps when you hold key for spam buildings.)
 
-
+---
 
 Remember, Astral was made for Nightmare.
 
-
+---
 
 Credits: 
 ilyax (me): Design of Astral, Astral logo, Attack system, Defense system, GUI/CLI (yes i copy danser-go), And more features such as translatino system etc.
 
-Cubic Flex [CF]: Helping me to understand sploop.io mechanizm. 
+Cubic Flex [CF]: Helping me to understand sploop.io mechanizm. <3
 
-Jeanne: A ready websocket, packet listening and ids.
+Jeanne: A ready websocket, packet listening and ids. <3
 
-Kusoi: Perfect Algorithm for AutoPlace
+Kusoi: Perfect Algorithm for AutoPlace and more. <3
 
-Crygen: A perfect autoheal. (Modified by me)
+Crygen: A perfect autoheal. (Modified by me) <3
+
+---
 
 To get Astral => https://ilyaxuwu.github.io/sploop/astral.html
